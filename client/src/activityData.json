@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Sedentary",
+        "value": 1.2
+    },
+    {
+        "name": "Lightly active",
+        "value": 1.375
+    },
+    {
+        "name": "Moderately Active",
+        "value": 1.55
+    },
+    {
+        "name": "Very Active",
+        "value": 1.725
+    },
+    {
+        "name": "Extra active",
+        "value": 1.9
+    }
+]
+
+
