@@ -127,7 +127,12 @@ const CalorieForm = ({ location }) => {
       {recievedData && (
         <div className='result-box'>
           <div>
-            <strong>Result(TDEE):</strong> {recievedData?.tdee}
+            <div>
+              <strong>Result(TDEE):</strong> {recievedData?.tdee}
+            </div>
+            <div>
+              <strong>Result(BMR):</strong> {recievedData?.bmr}
+            </div>
           </div>
         </div>
       )}
